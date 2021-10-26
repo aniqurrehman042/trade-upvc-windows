@@ -154,11 +154,17 @@ a.header-contact:link {
 .pb-02 {
 	padding-bottom: 0.2em;
 }
+.col-3 {
+	width: 25%;
+}
+.col-4 {
+	width: 33.333%;
+}
 .col-6 {
 	width: 50%;
 }
-.col-3 {
-	width: 25%;
+.col-8 {
+	width: 66.666%;
 }
 .full-width {
 	width: 100%;

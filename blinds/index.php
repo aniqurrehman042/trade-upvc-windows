@@ -67,7 +67,7 @@
             <div class="nav-button"><a href="/testimonials">TESTIMONIALS</a></div>
             <div class="nav-button"><a href="/contact">CONTACT</a></div>
         </div>
-        <img class="banner" src="../img/stylish-panel-blinds-banner.png" alt="Windows, Doors And Blinds">
+        <img class="banner" src="../img/panelbanner.jpg" alt="Windows, Doors And Blinds">
         <div class="content-area-invis-product-category">
             <div class="content-full-width-central-product-category">
                 <div class="row">
