@@ -67,7 +67,7 @@
             <div class="nav-button"><a href="/testimonials">TESTIMONIALS</a></div>
             <div class="nav-button"><a href="/contact">CONTACT</a></div>
         </div>
-        <img class="banner" src="../img/panelbanner.jpg" alt="Windows, Doors And Blinds">
+        <img class="banner" src="/img/blinds-banner.webp" alt="Windows, Doors And Blinds">
         <div class="content-area-invis-product-category">
             <div class="content-full-width-central-product-category">
                 <div class="row">
@@ -367,6 +367,7 @@
             </div>
         </div>
         <div id="footer">
+            <img class="footer-logos" src="/img/footer-logos.webp">
             <div id="footer-bottom">
                 <div id="footer-copyright">© Trade uPvc Home Improvements | 15 Carlibar Road, Barrhead, G781AA | <a style="color:#828282" href="privacy.html">Privacy &amp; Cookies</a> | <strong>Tel: 0800 0141
                         302</strong></div>

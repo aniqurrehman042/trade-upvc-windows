@@ -51,7 +51,7 @@
                 <img src="../img/logo.png" width="280" alt="" />
                 <div class="top-right-contact">
                     <span class="header-contact">Get A Quote</span><br>
-                    <a class="header-contact" href="tel:08000141302">0800 0141 302</a>
+                    <a class="header-contact" href="tel:08002229042">0800 2229 042</a>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
             <div class="nav-button"><a href="/testimonials">TESTIMONIALS</a></div>
             <div class="nav-button"><a href="/contact">CONTACT</a></div>
         </div>
-        <img class="banner" src="../img/white-upvc-front-door-on-a-house.jpg" alt="Windows, Doors And Blinds">
+        <img class="banner" src="../img/doors-banner.webp" alt="Windows, Doors And Blinds">
         <div class="content-area-invis-product-category">
             <div class="content-full-width-central-product-category">
                 <div class="row">
@@ -214,8 +214,30 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-3 p-02"></div>
-                        <div class="col-3 p-02"></div>
+                        <div class="col-3 p-02">
+                            <div class="image-card full-height">
+                                <img src="/img/composite-doors-brochure.webp" alt="Backyard Bi-Fold Door">
+                                <div class="image-card-info">
+                                    <h3>Composite Doors Brochure</h3>
+                                    <p>
+                                        A comprehensive collection of composite door designs featuring glazing styles, colours, traditional & modern designs and a range of security options to the best of your satisfaction.
+                                    </p>
+                                    <a class="btn-primary mt-1 display-block" href="/brochures/composite-door-brochure-june-2021.pdf">Download</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3 p-02">
+                            <div class="image-card full-height">
+                                <img src="/img/white-comp-door-with-offwhite-frame.png" alt="Backyard Bi-Fold Door">
+                                <div class="image-card-info">
+                                    <h3>uPVC Panels Brochure</h3>
+                                    <p>
+                                        A comprehensive collection of modern and traditional UPVC/PVCU door panel designs featuring creative glazing styles and a vibrant range of CoolSkin colours options to choose from.
+                                    </p>
+                                    <a class="btn-primary mt-1 display-block" href="/brochures/upvc-panel-brochure-2020.pdf" target="_blank">Download</a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-3 p-02"></div>
                     </div>
                 </div>
@@ -239,9 +261,10 @@
             </div>
         </div>
         <div id="footer">
+            <img class="footer-logos" src="/img/footer-logos.webp">
             <div id="footer-bottom">
-                <div id="footer-copyright">© Trade uPvc Home Improvements | 15 Carlibar Road, Barrhead, G781AA | <a style="color:#828282" href="privacy.html">Privacy &amp; Cookies</a> | <strong>Tel: 0800 0141
-                        302</strong></div>
+                <div id="footer-copyright">© Trade uPvc Home Improvements | 15 Carlibar Road, Barrhead, G781AA | <a style="color:#828282" href="privacy.html">Privacy &amp; Cookies</a> | <strong>Tel: 0800 2229
+                        042</strong></div>
             </div>
         </div>
 

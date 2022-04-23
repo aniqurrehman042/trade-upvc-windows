@@ -408,6 +408,10 @@ li {
     margin-right: auto;
 }
 
+.footer-logos {
+	width: 100%;
+}
+
 /* ================== Form ================== */
 
 .form-style-6 {
@@ -511,6 +515,30 @@ li {
 }
 .nav-button a:visited {
     color: white;
+}
+.btn-primary {
+	background-color: #1b155f;
+	border-color: #1b155f;
+	color: white !important;
+	padding: 10px 20px;
+	text-decoration: none !important;
+}
+
+/* =============== Responsiveness =============== */
+
+	@media (max-width: 1300px) {
+		body {
+			width: 150vw;
+		}
+	}
+
+/* =============== End Responsiveness =============== */
+
+.mt-1 {
+	margin-top: 1em;
+}
+.display-block {
+	display: block;
 }
 a:link {
 	color: #333333;
