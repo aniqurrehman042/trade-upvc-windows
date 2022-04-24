@@ -68,7 +68,7 @@
                 <img src="../img/logo.png" width="280" alt="" />
                 <div class="top-right-contact">
                     <span class="header-contact">Get A Quote</span><br>
-                    <a class="header-contact" href="tel:08000141302">0800 0141 302</a>
+                    <a class="header-contact" href="tel:2229042">0800 2229 042</a>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@
             <div class="nav-button"><a href="/testimonials">TESTIMONIALS</a></div>
             <div class="nav-button"><a href="/contact">CONTACT</a></div>
         </div>
-        <img class="banner" src="../img/about-us-banner.webp" alt="Windows, Doors And Blinds">
+        <img class="banner" src="/img/contact-us-banner.webp" alt="Windows, Doors And Blinds">
         <div class="content-area-invis-product-category">
             <div class="content-full-width-central-product-category">
                 <div class="row">
@@ -92,7 +92,7 @@
                         <div style="margin-top: auto;margin-bottom: auto;">
                             <h2 class="page-title">Contact Us Today</h2>
                             <h2 class="page-title text-blue text-small">Trade uPvc Windows</h2>
-                            <h2 class="text-blue"><span style="color: #373737">CALL US AT - </span>0800 0141 302</h2>
+                            <h2 class="text-blue"><span style="color: #373737">CALL US AT - </span>0800 2229 042</h2>
                             <h2 class="text-blue"><span style="color: #373737">EMAIL US AT -
                                 </span>info@tradeupvcwindows.co.uk
                             </h2>
@@ -153,8 +153,8 @@
         <div id="footer">
             <img class="footer-logos" src="/img/footer-logos.webp">
             <div id="footer-bottom">
-                <div id="footer-copyright">© Trade uPvc Windows | 15 Carlibar Road, Barrhead, G781AA | <a style="color:#828282" href="privacy.html">Privacy &amp; Cookies</a> | <strong>Tel: 0800 0141
-                        302</strong></div>
+                <div id="footer-copyright">© Trade uPvc Windows | 15 Carlibar Road, Barrhead, G781AA | <a style="color:#828282" href="privacy.html">Privacy &amp; Cookies</a> | <strong>Tel: 0800 2229
+                        042</strong></div>
             </div>
         </div>
 
