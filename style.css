@@ -166,7 +166,7 @@ a.header-contact:link {
 .col-8 {
 	width: 66.666%;
 }
-.full-width {
+.full-width, .col-12 {
 	width: 100%;
 }
 .full-height {
@@ -506,7 +506,7 @@ li {
 	width: auto;
 	padding-right: 25px;
 	padding-left: 25px;
-	font-size: 17px;
+	font-size: 15px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	text-align: center;
